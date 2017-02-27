@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-It is a very famous Tic Toe Game implemented in android with user friendly graphics. It is available on goolge play.
+It is a very famous Tic Toe Game implemented in android with user friendly graphics. It is available on google play.
 
 Description about game:
 
